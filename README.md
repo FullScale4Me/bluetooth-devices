@@ -1,0 +1,1 @@
+Bluetooth is a method for moving data over short distances using wireless. It is used for peripherals of all kinds: phones, audio equipment, keyboard, and mice. Only coverage of Cinnamon, Fluxbox, Gnome, KDE and Xfce.
